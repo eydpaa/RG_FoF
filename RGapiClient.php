@@ -9,7 +9,7 @@
  *
  * Description:  Rural Development Guarantee Fund of Funds REST API client
  *
- *
+ * Requirements: cURL library (https://www.php.net/manual/en/book.curl.php)
  */
 
 class RgapiClient {
